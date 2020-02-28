@@ -7,7 +7,7 @@ body {
     font-family: 'Audiowide', cursive;
     margin: 0px auto;
     display: block;
-    color:#000066;
+    color:#cf0c67;
     
 
   }
@@ -33,13 +33,10 @@ body {
   }
   #html,#css,#js{
     border: 3px solid #cccccc;
-    /* padding: 5px; */
     background-color:white;
-    /* background-image: url(bg.gif); */
 	  background-position: bottom right;
     background-repeat: no-repeat;
     outline: none;
-    /* overflow: auto; */
     resize: none;
 
   }
